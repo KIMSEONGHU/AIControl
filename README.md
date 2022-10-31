@@ -60,4 +60,5 @@
 
 
 [AI 사람얼굴인식.pptx](https://github.com/KIMSEONGHU/AIControl/files/9899047/AI.pptx)
+
 [AI제어실습 견본파일 (2).pptx](https://github.com/KIMSEONGHU/AIControl/files/9899051/AI.2.pptx)
