@@ -33,6 +33,7 @@
 > > 범죄도시2
 > > 이상한 변호사 우영우
 
+
 > 두번째
 > 노래
 > > 10cm:그라데이션
@@ -58,3 +59,5 @@
 ![image](https://user-images.githubusercontent.com/112404937/195636515-5d60542d-bf44-42a5-975a-2e84f653a799.png)
 
 
+[AI 사람얼굴인식.pptx](https://github.com/KIMSEONGHU/AIControl/files/9899047/AI.pptx)
+[AI제어실습 견본파일 (2).pptx](https://github.com/KIMSEONGHU/AIControl/files/9899051/AI.2.pptx)
