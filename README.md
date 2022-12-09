@@ -62,3 +62,11 @@
 [AI 사람얼굴인식.pptx](https://github.com/KIMSEONGHU/AIControl/files/9899047/AI.pptx)
 
 [AI제어실습 견본파일 (2).pptx](https://github.com/KIMSEONGHU/AIControl/files/9899051/AI.2.pptx)
+
+
+[8조 기말 발표 ppt.pptx](https://github.com/KIMSEONGHU/AIControl/files/10192187/8.ppt.pptx)
+
+
+
+https://user-images.githubusercontent.com/112404937/206635625-d5cea6d2-e68b-4bed-9e90-5c2bcfd6b84e.mp4
+
